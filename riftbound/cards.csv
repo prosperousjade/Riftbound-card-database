@@ -1,2 +1,99 @@
 name,set,quantity,type,color,altArt,overnumbered,image
 Scuttle Crab,UNL,1,UNIT,CALM,FALSE,FALSE,scuttle-crab-unl.avif
+Wuju Apprentice,UNL,4,UNIT,CALM,false,false,wuju-apprentice-unl.avif
+Monch,UNL,4,UNIT,CALM,false,false,monch-unl.avif
+"Allay, Eager Admirer",UNL,1,UNIT,CALM,false,false,allay-eager-admirer-unl.avif
+Enthusiastic Promoter,UNL,2,UNIT,CALM,false,false,enthusiastic-promoter-unl.avif
+Herald of Spring,UNL,4,UNIT,CALM,false,false,herald-of-spring-unl.avif
+Frisky Hunter,UNL,3,UNIT,CALM,false,false,frisky-hunter-unl.avif
+Mutated Monster,UNL,3,UNIT,CALM,false,false,mutated-monster-unl.avif
+Shadow Watcher,UNL,3,UNIT,CALM,false,false,shadow-watcher-unl.avif
+Soul Sword,UNL,4,GEAR,CALM,false,false,soul-sword-unl.avif
+Forgotten Signpost,UNL,1,GEAR,CALM,false,false,forgotten-signpost-unl.avif
+Friendship,UNL,1,SPELL,CALM,false,false,friendship-unl.avif
+Back Off,UNL,3,SPELL,CALM,false,false,back-off-unl.avif
+Skyward Strike,UNL,3,SPELL,CALM,false,false,skyward-strike-unl.avif
+Double Trouble,UNL,3,SPELL,CALM,false,false,double-trouble-unl.avif
+Combat Experience,UNL,3,SPELL,CALM,false,false,combat-experience-unl.avif
+Flurry of Feathers,UNL,1,SPELL,CALM,false,false,flurry-of-feathers-unl.avif
+Scorchclaw,UNL,2,UNIT,FURY,false,false,scorchclaw-unl.avif
+Mischievous Marai,UNL,2,UNIT,FURY,false,false,mischievous-marai-unl.avif
+Towering Pairofant,UNL,4,UNIT,FURY,false,false,towering-pairofant-unl.avif
+Arena Kingpin,UNL,3,UNIT,FURY,false,false,arena-kingpin-unl.avif
+Sharkling,UNL,3,UNIT,FURY,false,false,sharkling-unl.avif
+Revna the Lorekeeper,UNL,4,UNIT,FURY,false,false,revna-the-lorekeeper-unl.avif
+Inferna,UNL,3,UNIT,FURY,false,false,inferna-unl.avif
+Lord Broadmane,UNL,3,UNIT,FURY,false,false,lord-broadmane-unl.avif
+Prepared Neophyte,UNL,3,UNIT,FURY,false,false,prepared-neophyte-unl.avif
+Fresh Beans,UNL,2,GEAR,FURY,false,false,fresh-beans-unl.avif
+Vault Breaker,UNL,4,SPELL,FURY,false,false,vault-breaker-unl.avif
+Right of Conquest,UNL,1,SPELL,FURY,false,false,right-of-conquest-unl.avif
+Lotus Trap,UNL,1,SPELL,FURY,false,false,lotus-trap-unl.avif
+Monster Harpoon,UNL,1,SPELL,FURY,false,false,monster-harpoon-unl.avif
+Smite,UNL,4,SPELL,FURY,false,false,smite-unl.avif
+Upstage Comedy,UNL,4,SPELL,FURY,false,false,upstage-comedy-unl.avif
+Undying Loyalty,UNL,1,SPELL,ORDER,false,false,undying-loyalty-unl.avif
+Shadow's Call,UNL,1,SPELL,ORDER,false,false,shadows-call-unl.avif
+Soul Harvest,UNL,3,SPELL,ORDER,false,false,soul-harvest-unl.avif
+Heroic Charge,UNL,4,SPELL,ORDER,false,false,heroic-charge-unl.avif
+Divining Shells,UNL,2,GEAR,ORDER,false,false,divining-shells-unl.avif
+Shepard's Heirloom,UNL,4,GEAR,ORDER,false,false,shepards-heirloom-unl.avif
+Ultrasoft Poro,UNL,4,UNIT,ORDER,false,false,ultrasoft-poro-unl.avif
+Loyal Poro,UNL,3,UNIT,ORDER,false,false,loyal-poro-unl.avif
+Scrutinizing Sergeant,UNL,4,UNIT,ORDER,false,false,scrutinizing-sergeant-unl.avif
+Stalking Wolf,UNL,1,UNIT,ORDER,false,false,stalking-wolf-unl.avif
+Safety Inspector,UNL,1,UNIT,ORDER,false,false,safety-inspector-unl.avif
+Black Rose Dignitary,UNL,3,UNIT,ORDER,false,false,black-rose-dignitary-unl.avif
+Mageseeker Investigator,UNL,1,UNIT,ORDER,false,false,mageseeker-investigator-unl.avif
+Crimson Pigeons,UNL,3,UNIT,ORDER,false,false,crimson-pigeons-unl.avif
+Enthralling Protector,UNL,2,UNIT,ORDER,false,false,enthralling-protector-unl.avif
+Bandle Soldier,UNL,3,UNIT,ORDER,false,false,bandle-soldier-unl.avif
+Carrion Dredger,UNL,4,UNIT,ORDER,false,false,carrion-dredger-unl.avif
+Bewitching Spirit,UNL,3,UNIT,CHAOS,false,false,bewitching-spirit-unl.avif
+Megatusk,UNL,3,UNIT,CHAOS,false,false,megatusk-unl.avif
+Insightful Investigator,UNL,1,UNIT,CHAOS,false,false,insightful-investigator-unl.avif
+Angler Beast,UNL,2,UNIT,CHAOS,false,false,angler-beast-unl.avif
+Vicious Snapjaws,UNL,3,UNIT,CHAOS,false,false,vicious-snapjaws-unl.avif
+Crescent Guardian,UNL,5,UNIT,CHAOS,false,false,crescent-guardian-unl.avif
+Walking Roost,UNL,3,UNIT,CHAOS,false,false,walking-roost-unl.avif
+Evershade Stalker,UNL,4,UNIT,CHAOS,false,false,evershade-stalker-unl.avif
+Mister Root,UNL,4,UNIT,CHAOS,false,false,mister-root-unl.avif
+Blast Cone,UNL,3,GEAR,CHAOS,false,false,blast-cone-unl.avif
+Scryer's Bloom,UNL,2,GEAR,CHAOS,false,false,scryers-bloom-unl.avif
+Star-Crossed,UNL,4,SPELL,CHAOS,false,false,star-crossed-unl.avif
+Isolate,UNL,3,SPELL,CHAOS,false,false,isolate-unl.avif
+Existential Dread,UNL,1,SPELL,CHAOS,false,false,existential-dread-unl.avif
+Abandon,UNL,1,SPELL,CHAOS,false,false,abandon-unl.avif
+Lunar Boon,UNL,3,SPELL,CHAOS,false,false,lunar-boon-unl.avif
+Frigid Jewel,UNL,1,GEAR,MIND,false,false,frigid-jewel-unl.avif
+Sprite Fountain,UNL,1,GEAR,MIND,false,false,sprite-fountain-unl.avif
+Sprite Burst,UNL,4,SPELL,CALM,false,false,sprite-burst-unl.avif
+Turn to Dust,UNL,4,SPELL,CALM,false,false,turn-to-dust-unl.avif
+Downstage Dramatics,UNL,3,SPELL,CALM,false,false,downstage-dramatics-unl.avif
+Deadly Flourish,UNL,1,SPELL,CALM,false,false,deadly-flourish-unl.avif
+Eclipse,UNL,3,SPELL,CALM,false,false,eclipse-unl.avif
+Cresent Strike,UNL,3,SPELL,CALM,false,false,cresent-strike-unl.avif
+Moonlight Affliction,UNL,4,SPELL,CALM,false,false,moonlight-affliction-unl.avif
+Icevale Archer,UNL,3,UNIT,CALM,false,false,icevale-archer-unl.avif
+Chakram Dancer,UNL,3,UNIT,CALM,false,false,chakram-dancer-unl.avif
+Dramatic Visionary,UNL,4,UNIT,CALM,false,false,dramatic-visionary-unl.avif
+Fate Weaver,UNL,4,UNIT,CALM,false,false,fate-waever-unl.avif
+Ruined Rex,UNL,3,UNIT,CALM,false,false,ruined-rex-unl.avif
+Spectral Centaur,UNL,3,UNIT,CALM,false,false,spectral-centaur-unl.avif
+Gustwalker,UNL,1,UNIT,CALM,false,false,gustwalker-unl.avif
+Hunter's Machete,UNL,4,GEAR,BODY,false,false,hunters-machete-unl.avif
+Concentrate,UNL,4,SPELL,BODY,false,false,concentrate-unl.avif
+Disposal Order,UNL,2,SPELL,BODY,false,false,disposal-order-unl.avif
+Grim Resolve,UNL,3,SPELL,BODY,false,false,grim-resolve-unl.avif
+Call to Battle,UNL,1,SPELL,BODY,false,false,call-to-battle-unl.avif
+Repulse,UNL,1,SPELL,BODY,false,false,repulse-unl.avif
+Kinkou Initiate,UNL,4,UNIT,BODY,false,false,kinkou-initiate-unl.avif
+Demacian Diplomat,UNL,3,UNIT,BODY,false,false,demacian-diplomat-unl.avif
+Voracious Gromp,UNL,4,UNIT,BODY,false,false,voracious-gromp-unl.avif
+Crowd Favorite,UNL,3,UNIT,BODY,false,false,crowd-favorite-unl.avif
+Gentle Gemdragon,UNL,2,UNIT,BODY,false,false,gentle-gemdragon-unl.avif
+Gemhand Hunter,UNL,3,UNIT,BODY,false,false,gemhand-hunter-unl.avif
+Targonian Visionary,UNL,3,UNIT,BODY,false,false,targonian-visionary-unl.avif
+Dragonsoul Sage,UNL,3,UNIT,BODY,false,false,dragonsoul-sage-unl.avif
+Towering Combatant,UNL,3,UNIT,BODY,false,false,towering-combatant-unl.avif
+Imposing Challenger,UNL,1,UNIT,BODY,false,false,imposing-challenger-unl.avif
