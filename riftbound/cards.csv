@@ -2,7 +2,7 @@ name,set,quantity,type,color,altArt,overnumbered,image
 Scuttle Crab,UNL,1,UNIT,CALM,FALSE,FALSE,scuttle-crab-unl.avif
 Wuju Apprentice,UNL,4,UNIT,CALM,false,false,wuju-apprentice-unl.avif
 Monch,UNL,4,UNIT,CALM,false,false,monch-unl.avif
-"Allay, Eager Admirer",UNL,1,UNIT,CALM,false,false,allay-eager-admirer-unl.avif
+Allay Eager Admirer,UNL,1,UNIT,CALM,false,false,allay-eager-admirer-unl.avif
 Enthusiastic Promoter,UNL,2,UNIT,CALM,false,false,enthusiastic-promoter-unl.avif
 Herald of Spring,UNL,4,UNIT,CALM,false,false,herald-of-spring-unl.avif
 Frisky Hunter,UNL,3,UNIT,CALM,false,false,frisky-hunter-unl.avif
