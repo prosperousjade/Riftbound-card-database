@@ -1,5 +1,5 @@
 name,set,quantity,type,color,altArt,overnumbered,image
-Scuttle Crab,UNL,1,UNIT,CALM,FALSE,FALSE,scuttle-crab-unl.avif
+Scuttle Crab,UNL,2,UNIT,CALM,FALSE,FALSE,scuttle-crab-unl.avif
 Wuju Apprentice,UNL,4,UNIT,CALM,false,false,wuju-apprentice-unl.avif
 Monch,UNL,4,UNIT,CALM,false,false,monch-unl.avif
 Allay Eager Admirer,UNL,1,UNIT,CALM,false,false,allay-eager-admirer-unl.avif
@@ -97,3 +97,108 @@ Targonian Visionary,UNL,3,UNIT,BODY,false,false,targonian-visionary-unl.avif
 Dragonsoul Sage,UNL,3,UNIT,BODY,false,false,dragonsoul-sage-unl.avif
 Towering Combatant,UNL,3,UNIT,BODY,false,false,towering-combatant-unl.avif
 Imposing Challenger,UNL,1,UNIT,BODY,false,false,imposing-challenger-unl.avif
+Calm Rune,UNL,3,RUNE,CALM,false,false,calm-rune-unl.avif
+Mind Rune,UNL,1,RUNE,MIND,false,false,mind-rune-unl.avif
+Body Rune,UNL,1,RUNE,BODY,false,false,body-rune-unl.avif
+Chaos Rune,UNL,1,RUNE,CHAOS,false,false,chaos-rune-unl.avif
+Fury Rune,UNL,3,RUNE,FURY,false,false,fury-rune-unl.avif
+Order Rune,UNL,1,RUNE,ORDER,false,false,order-rune-unl.avif
+Bird,UNL,2,TOKEN,NONE,false,false,bird-unl.avif
+Sprite,UNL,4,TOKEN,NONE,false,false,sprite-unl.avif
+Reflection,UNL,4,TOKEN,NONE,false,false,reflection-unl.avif
+Brush,UNL,3,TOKEN,NONE,false,false,brush-unl.avif
+Baron Pit,UNL,3,TOKEN,NONE,false,false,baron-pit-unl.avif
+XP Tracker,UNL,3,TOKEN,NONE,false,false,xp-tracker-unl.avif
+Dusk Rose Lab,UNL,1,BATTLEFIELD,NONE,false,false,dusk-rose-lab-unl.avif
+Trapping Grounds,UNL,1,BATTLEFIELD,NONE,false,false,trapping-grounds-unl.avif
+Altar of Blood,UNL,1,BATTLEFIELD,NONE,false,false,altar-of-blood-unl.avif
+Amateur Recital,UNL,1,BATTLEFIELD,NONE,false,false,amateur-recital-unl.avif
+Vaults of Helia,UNL,1,BATTLEFIELD,NONE,false,false,vaults-of-helia-unl.avif
+Frozen Fortress,UNL,1,BATTLEFIELD,NONE,false,false,frozen-fortress-unl.avif
+Forbidding Waste,UNL,1,BATTLEFIELD,NONE,false,false,forbidding-waste-unl.avif
+Valley of Idols,UNL,1,BATTLEFIELD,NONE,false,false,valley-of-idols-unl.avif
+Abandoned Hall,UNL,1,BATTLEFIELD,NONE,false,false,abandoned-hall-unl.avif
+Forgotten Library,UNL,1,BATTLEFIELD,NONE,false,false,forgotten-library-unl.avif
+The Academy,UNL,1,BATTLEFIELD,NONE,false,false,the-academy-unl.avif
+Black Flame Altar,UNL,1,BATTLEFIELD,NONE,false,false,black-flame-altar-unl.avif
+Gardens of Becoming,UNL,1,BATTLEFIELD,NONE,false,false,gardens-of-becoming-unl.avif
+Star Spring,UNL,1,BATTLEFIELD,NONE,false,false,star-spring-unl.avif
+Ripper's Bay,UNL,1,BATTLEFIELD,NONE,false,false,rippers-bay-unl.avif
+Trapping Grounds (Foil),UNL,1,BATTLEFIELD,NONE,false,false,trapping-grounds-unl.avif
+Abandoned Hall (Foil),UNL,1,BATTLEFIELD,NONE,false,false,abandoned-hall-unl.avif
+Valley of Idols (Foil),UNL,1,BATTLEFIELD,NONE,false,false,valley-of-idols-unl.avif
+Altar of Blood (Foil),UNL,1,BATTLEFIELD,NONE,false,false,altar-of-blood-unl.avif
+Dusk Rose Lab (Foil),UNL,1,BATTLEFIELD,NONE,false,false,dusk-rose-lab-unl.avif
+Double Trouble (Foil),UNL,2,SPELL,CALM,false,false,double-trouble-unl.avif
+Mutated Mouser (Foil),UNL,1,UNIT,CALM,false,false,mutated-mouser-foil-unl.avif
+Alpha Wildclaw,UNL,1,UNIT,CALM,false,false,alpha-wildclaw-unl.avif
+Iascylla,UNL,1,UNIT,CALM,false,false,iascylla-unl.avif
+Honeyfruit,UNL,1,GEAR,CALM,false,false,honeyfruit-unl.avif
+Fortten Signpost (Foil),UNL,1,GEAR,CALM,false,false,fortten-signpost-unl.avif
+Ivern - Nurturer,UNL,1,UNIT,CALM,false,false,ivern-nurturer-unl.avif
+Nami - Headstrong,UNL,1,UNIT,CALM,false,false,nami-headstrong-unl.avif
+Yuumi - Magical Cat,UNL,1,UNIT,CALM,false,false,yuumi-magical-cat-unl.avif
+Master Yi - Unstoppable,UNL,1,UNIT,CALM,false,false,master-yi-unstoppable-unl.avif
+Vex - Mocking,UNL,1,UNIT,CALM,true,false,vex-mocking-unl-a.avif
+Mind Rune,UNL,1,RUNE,MIND,true,false,mind-rune-unl-a.avif
+Order Rune,UNL,1,RUNE,ORDER,true,false,order-rune-unl-a.avif
+Irresistible Faefolk,UNL,1,UNIT,BODY,false,false,irresistible-faefolk-unl.avif
+Rengar - Trophy Hunter,UNL,1,UNIT,BODY,false,false,rengar-trophy-hunter-unl.avif
+Blue Sentinel,UNL,1,UNIT,MIND,false,false,blue-sentinel-unl.avif
+Vi - Hotheaded,UNL,1,UNIT,FURY,true,false,vi-hotheaded-unl-a.avif
+Rengar - Unseen,UNL,1,UNIT,FURY,true,false,rengar-unseen-unl-a.avif
+Vi - Peacekeeper,UNL,1,UNIT,ORDER,false,false,vi-peacekeeper-unl.avif
+Vi - Hotheaded,UNL,1,UNIT,FURY,false,false,vi-hotheaded-unl.avif
+Arena Kingpin (Foil),UNL,1,UNIT,FURY,false,false,arena-kingpin-foil-unl.avif
+Xerath - Freed,UNL,1,UNIT,FURY,false,false,xerath-freed-unl.avif
+Jhin - Murderous Artist,UNL,1,UNIT,FURY,false,false,jhin-murderous-artist-unl.avif
+Grim Apothecary,UNL,2,UNIT,FURY,false,false,grim-apothecary-unl.avif
+Red Brambleback,UNL,1,UNIT,FURY,false,false,red-brambleback-unl.avif
+Scorchclaw (Foil),UNL,1,UNIT,FURY,false,false,scorchclaw-foil-unl.avif
+Katarina - Reckless,UNL,1,UNIT,FURY,false,false,katarina-reckless-unl.avif
+Undying Legion,UNL,1,UNIT,FURY,false,false,undying-legion-unl.avif
+Ivern - Friend to All,UNL,1,UNIT,ORDER,false,false,ivern-friend-to-all-unl.avif
+Carrion Dredger (Foil),UNL,1,UNIT,ORDER,false,false,carrion-dredger-foil-unl.avif
+Ashe - Focused,UNL,1,UNIT,ORDER,false,false,ashe-focused-unl.avif
+Tactical Retreat,UNL,2,SPELL,ORDER,false,false,tactical-retreat-unl.avif
+Galio - Indefatigable,UNL,1,UNIT,ORDER,false,false,galio-indefatigable-unl.avif
+Shepherd's Heirloom (Foil),UNL,1,GEAR,ORDER,false,false,shepherds-heirloom-foil-unl.avif
+Sacrifice,UNL,1,SPELL,ORDER,false,false,sacrifice-unl.avif
+Bewitching Spirit (Foil),UNL,1,UNIT,CHAOS,false,false,bewitching-spirit-foil-unl.avif
+Heedless Resurrection,UNL,1,SPELL,CHAOS,false,false,heedless-resurrection-unl.avif
+Insightful Investigator (Foil),UNL,1,UNIT,CHAOS,false,false,insightful-investigator-foil-unl.avif
+Syndra - Transcendent,UNL,1,UNIT,CHAOS,false,false,syndra-transcendent-unl.avif
+Maduli the Gatekeeper,UNL,1,UNIT,CHAOS,false,false,maduli-the-gatekeeper-unl.avif
+Evelynn - Entrancing,UNL,1,UNIT,CHAOS,false,false,evelynn-entrancing-unl.avif
+Conscription,UNL,2,SPELL,CHAOS,false,false,conscription-unl.avif
+Kha'Zix - Mutating Horror,UNL,2,UNIT,CHAOS,false,false,khazix-mutating-horror-unl.avif
+Diana - Lunari,UNL,1,UNIT,MIND,false,false,diana-lunari-unl.avif
+Frigid Jewel (Foil),UNL,1,GEAR,MIND,false,false,frigid-jewel-foil-unl.avif
+Lilia - Fae Fawn,UNL,1,UNIT,MIND,false,false,lilia-fae-fawn-unl.avif
+Sumpworks Map,UNL,2,GEAR,MIND,false,false,sumpworks-map-unl.avif
+Downstage Dramatics (Foil),UNL,1,SPELL,MIND,false,false,downstage-dramatics-foil-unl.avif
+Zilean - Time Mage,UNL,1,UNIT,MIND,false,false,zilean-time-mage-unl.avif
+Icevale Archer (Foil),UNL,1,UNIT,MIND,false,false,icevale-archer-foil-unl.avif
+Smoke and Mirrors,UNL,1,SPELL,MIND,false,false,smoke-and-mirrors-unl.avif
+Keeper of Masks,UNL,1,UNIT,MIND,false,false,keeper-of-masks-unl.avif
+Fate Weaver (Foil),UNL,1,UNIT,MIND,false,false,fate-weaver-foil-unl.avif
+Kinkou Initiate (Foil),UNL,1,UNIT,BODY,false,false,kinkou-initiate-foil-unl.avif
+Poppy - Paragon,UNL,1,UNIT,BODY,false,false,poppy-paragon-unl.avif
+Voracious Gromp (Foil),UNL,1,UNIT,BODY,false,false,voracious-gromp-foil-unl.avif
+Concentrate (Foil),UNL,1,SPELL,BODY,false,false,concentrate-foil-unl.avif
+Clash of Giants,UNL,2,SPELL,BODY,false,false,clash-of-giants-unl.avif
+Gemhand Hunter (Foil),UNL,1,UNIT,BODY,false,false,gemhand-hunter-foil-unl.avif
+Master Yi - Tempered,UNL,1,UNIT,BODY,false,false,master-yi-tempered-unl.avif
+Grim Resolve (Foil),UNL,1,SPELL,BODY,false,false,grim-resolve-foil-unl.avif
+Determined Sentry,UNL,1,UNIT,BODY,false,false,determined-sentry-unl.avif
+Curtain Call,UNL,1,SPELL,FURY&MIND,false,false,curtain-call-unl.avif
+Jhin - Viruoso,UNL,1,LEGEND,FURY&MIND,false,false,jhin-viruoso-unl.avif
+Rengar - Pridestalker,UNL,1,LEGEND,FURY&BODY,false,false,rengar-pridestalker-unl.avif
+Vi - Piltover Enforcer,UNL,1,LEGEND,FURY&ORDER,false,false,vi-piltover-enforcer-unl.avif
+Kha'Zix - Voidreaver,UNL,1,LEGEND,BODY&CHAOS,false,false,khazix-voidreaver-unl.avif
+Master Yi - Wuju Master,UNL,1,LEGEND,CALM&BODY,false,false,master-yi-wuju-master-unl.avif
+Leblanc - Deceiver,UNL,1,LEGEND,MIND&ORDER,false,false,leblanc-deceiver-unl.avif
+Lilia - Bashful Bloom,UNL,1,LEGEND,CALM&MIND,false,false,lilia-bashful-bloom-unl.avif
+Diana - Scorn of the Moon,UNL,1,LEGEND,MIND&CHAOS,false,false,diana-scorn-of-the-moon-unl.avif
+Poppy - Keeper of the Hammer,UNL,2,LEGEND,BODY&ORDER,false,false,poppy-keeper-of-the-hammer-unl.avif
+Vex - Gloomist,UNL,1,LEGEND,CALM&CHAOS,false,false,vex-gloomist-unl.avif
