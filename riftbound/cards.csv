@@ -140,7 +140,7 @@ Nami - Headstrong,UNL,1,UNIT,CALM,false,false,nami-headstrong-unl.avif
 Yuumi - Magical Cat,UNL,1,UNIT,CALM,false,false,yuumi-magical-cat-unl.avif
 Master Yi - Unstoppable,UNL,1,UNIT,CALM,false,false,master-yi-unstoppable-unl.avif
 Vex - Mocking,UNL,1,UNIT,CALM,true,false,vex-mocking-unl-a.avif
-Mind Rune,UNL,1,RUNE,MIND,true,false,mind-rune-unl-a.avif
+Mind Rune,SFD,1,RUNE,MIND,true,false,mind-rune-sfd-a.avif
 Order Rune,UNL,1,RUNE,ORDER,true,false,order-rune-unl-a.avif
 Irresistible Faefolk,UNL,1,UNIT,BODY,false,false,irresistible-faefolk-unl.avif
 Rengar - Trophy Hunter,UNL,1,UNIT,BODY,false,false,rengar-trophy-hunter-unl.avif
@@ -202,3 +202,11 @@ Lilia - Bashful Bloom,UNL,1,LEGEND,CALM&MIND,false,false,lilia-bashful-bloom-unl
 Diana - Scorn of the Moon,UNL,1,LEGEND,MIND&CHAOS,false,false,diana-scorn-of-the-moon-unl.avif
 Poppy - Keeper of the Hammer,UNL,2,LEGEND,BODY&ORDER,false,false,poppy-keeper-of-the-hammer-unl.avif
 Vex - Gloomist,UNL,1,LEGEND,CALM&CHAOS,false,false,vex-gloomist-unl.avif
+Karma - Channeler (Sig),SFD,1,UNIT,ORDER,false,true,karma-channeler-sfd-o.avif
+Rengar - Trophy Hunter,VEN,1,UNIT,BODY,false,true,rengar-trophy-hunter-ven-o.avif
+Kai'sa - Survivor,VEN,1,UNIT,FURY,true,false,kaisa-survivor-ven-a.avif
+Lux - Crownguard,VEN,1,UNIT,ORDER,true,false,lux-crownguard-ven-a.avif
+Fizz - Trickster,SFD,1,UNIT,CHAOS,false,false,fizz-trickster-sfd.avif
+Ezreal - Prodigy,SFD,1,UNIT,CHAOS,false,false,ezreal-prodigy-sfd.avif
+Defiant Dance,SFD,1,SPELL,CALM&CHAOS,false,false,defiant-dance-sfd.avif
+Ferrous Forerunner,SFD,1,UNIT,FURY,false,false,ferrous-forerunner-sfd.avif
