@@ -409,3 +409,168 @@ Hostile Takeover,SFD,1,SPELL,MIND&ORDER,false,false,hostile-takeover-sfd.avif
 Lucian - Purifier,SFD,1,LEGEND,FURY&BODY,false,false,lucian-purifier-sfd.avif
 Ezreal - Prodigal Explorer,SFD,1,LEGEND,MIND&CHAOS,false,false,ezreal-prodigal-explorer-sfd.avif
 Bellows Breath,SFD,1,SPELL,MIND,false,false,bellows-breath-sfd.avif
+Jayce - Defender of Tomorrow,VEN,2,LEGEND,MIND&BODY,false,false,jayce-defender-of-tomorrow-ven.avif
+Kennen - Heart of the Tempest,VEN,2,LEGEND,CHAOS&ORDER,false,false,kennen-heart-of-the-tempest-ven.avif
+Shen - Eye of Twilight,VEN,1,LEGEND,CALM&ORDER,false,false,shen-eye-of-twilight-ven.avif
+Renekton - Butcher of the Sands,VEN,1,LEGEND,FURY&BODY,false,false,renekton-butcher-of-the-sands-ven.avif
+Akali - Rouge Assassin,VEN,1,LEGEND,FURY&CALM,false,false,akali-rouge-assassin-ven.avif
+Ambessa - Matriarch of War,VEN,1,LEGEND,BODY&ORDER,false,false,ambessa-matriarch-of-war-ven.avif
+Death Mark,VEN,1,SPELL,FURY&CHAOS,false,false,death-mark-ven.avif
+Renekton - Rage Fueled,VEN,1,UNIT,FURY,true,false,renekton-rage-fueled-ven-a.avif
+Brittle Steel,VEN,3,SPELL,FURY,false,false,brittle-steel-ven.avif
+Perfect Execution,VEN,1,SPELL,FURY,false,false,perfect-execution-ven.avif
+Consuming Curse,VEN,2,SPELL,FURY,false,false,consuming-curse-ven.avif
+Ruthless Strike,VEN,4,SPELL,FURY,false,false,ruthless-strike-ven.avif
+Pendulum Blade,VEN,1,GEAR,FURY,false,false,pendulum-blade-ven.avif
+Oasis Raider,VEN,4,UNIT,FURY,false,false,oasis-raider-ven.avif
+Blade Twirler,VEN,3,UNIT,FURY,false,false,blade-twirler-ven.avif
+Punching Poro,VEN,3,UNIT,FURY,false,false,punching-poro-ven.avif
+Shadow Assassin,VEN,2,UNIT,FURY,false,false,shadow-assassin-ven.avif
+Baccai Sandspinner,VEN,4,UNIT,FURY,false,false,baccai-sandspinner-ven.avif
+Baccai Reaper,VEN,2,UNIT,FURY,false,false,baccai-reaper-ven.avif
+Forsaken Baccai,VEN,4,UNIT,FURY,false,false,forsaken-baccai-ven.avif
+Shadow Fiend,VEN,2,UNIT,FURY,false,false,shadow-fiend-ven.avif
+Dune Surfer,VEN,3,UNIT,FURY,false,false,dune-surfer-ven.avif
+Fury Rune,VEN,3,RUNE,FURY,false,false,fury-rune-ven.avif
+Forsaken Baccai (Foil),VEN,1,UNIT,FURY,false,false,forsaken-baccai-ven.avif
+Morgana - Vindictive,VEN,1,UNIT,FURY,false,false,morgana-vindictive-ven.avif
+Punching Poro (Foil),VEN,1,UNIT,FURY,false,false,punching-poro-ven.avif
+Eclipse Dragon,VEN,1,UNIT,FURY,false,false,eclipse-dragon-ven.avif
+Renekton - Rage Fueled,VEN,2,UNIT,FURY,false,false,renekton-rage-fueled-ven.avif
+Consuming Curse (Foil),VEN,1,SPELL,FURY,false,false,consuming-curse-ven.avif
+Decree of Rage,VEN,1,SPELL,FURY,false,false,decree-of-rage-ven.avif
+Resonating Strike,VEN,2,SPELL,CALM,false,false,resonating-strike-ven.avif
+Sanction,VEN,2,SPELL,CALM,false,false,sanction-ven.avif
+Twilight Shroud,VEN,4,SPELL,CALM,false,false,twilight-shroud-ven.avif
+Hand Hammer,VEN,3,GEAR,CALM,false,false,hand-hammer-ven.avif
+Pakaa Protector,VEN,1,UNIT,CALM,false,false,pakaa-protector-ven.avif
+Tomb-Raider Barbara,VEN,1,UNIT,CALM,false,false,tomb-raider-barbara-ven.avif
+Ol' Poro,VEN,3,UNIT,CALM,false,false,ol-poro-ven.avif
+Affectionate Poro,VEN,4,UNIT,CALM,false,false,affectionate-poro-ven.avif
+Mournful Witness,VEN,4,UNIT,CALM,false,false,mournful-witness-ven.avif
+Field Musicians,VEN,4,UNIT,CALM,false,false,field-musicians-ven.avif
+Sandstone Chimera,VEN,1,UNIT,CALM,false,false,sandstone-chimera-ven.avif
+Frostcoat Mother,VEN,2,UNIT,CALM,false,false,frostcoat-mother-ven.avif
+Esteemed Hierophant,VEN,3,UNIT,CALM,false,false,esteemed-hierophant-ven.avif
+Serene Ascetic,VEN,4,UNIT,CALM,false,false,serene-ascetic-ven.avif
+Calm Rune,VEN,3,RUNE,CALM,false,false,calm-rune-ven.avif
+Mournful Witness (Foil),VEN,1,UNIT,CALM,false,false,mournful-witness-ven.avif
+Steel Paws,VEN,1,UNIT,CALM,false,false,steel-paws-ven.avif
+Riven - Shattered,VEN,1,UNIT,CALM,false,false,riven-shattered-ven.avif
+Akali - Silent,VEN,1,UNIT,CALM,false,false,akali-silent-ven.avif
+Shen - Scourge of Shadows,VEN,1,UNIT,CALM,false,false,shen-scourge-of-shadows-ven.avif
+Sanction (Foil),VEN,1,SPELL,CALM,false,false,sanction-ven.avif
+Crumbling Sands,VEN,1,SPELL,CALM,false,false,crumbling-sands-ven.avif
+Twilight Shroud (Foil),VEN,1,SPELL,CALM,false,false,twilight-shroud-ven.avif
+Nasus - Ascended,VEN,1,UNIT,CALM,false,false,nasus-ascended-ven.avif
+Questionable Tome,VEN,4,GEAR,MIND,false,false,questionable-tome-ven.avif
+Dredge Up,VEN,4,SPELL,MIND,false,false,dredge-up-ven.avif
+Shock Blast,VEN,1,SPELL,MIND,false,false,shock-blast-ven.avif
+Clairvoyance,VEN,2,SPELL,MIND,false,false,clairvoyance-ven.avif
+Iterative Design,VEN,4,SPELL,MIND,false,false,iterative-design-ven.avif
+Mesmerize,VEN,3,SPELL,MIND,false,false,mesmerize-ven.avif
+Covert Informant,VEN,1,UNIT,MIND,false,false,covert-informant-ven.avif
+Apprentice Mage,VEN,4,UNIT,MIND,false,false,apprentice-mage-ven.avif
+Patched Porobot,VEN,2,UNIT,MIND,false,false,patched-porobot-ven.avif
+Otterpus,VEN,3,UNIT,MIND,false,false,otterpus-ven.avif
+Grumpy Rockbear,VEN,4,UNIT,MIND,false,false,grumpy-rockbear-ven.avif
+Applied Researchers,VEN,1,UNIT,MIND,false,false,applied-researchers-ven.avif
+Sky Cruiser,VEN,2,UNIT,MIND,false,false,sky-cruiser-ven.avif
+Cloud Drake,VEN,2,UNIT,MIND,false,false,cloud-drake-ven.avif
+Mind Rune,VEN,2,RUNE,MIND,false,false,mind-rune-ven.avif
+Questionable Tome (Foil),VEN,1,GEAR,MIND,false,false,questionable-tome-ven.avif
+Hextech Formula,VEN,1,GEAR,MIND,false,false,hextech-formula-ven.avif
+Sky Cruiser (Foil),VEN,1,UNIT,MIND,false,false,sky-cruiser-ven.avif
+Apprentice Mage (Foil),VEN,1,UNIT,MIND,false,false,apprentice-mage-ven.avif
+Plaza Guardian,VEN,1,UNIT,MIND,false,false,plaza-guardian-ven.avif
+Swain - Visionary,VEN,1,UNIT,MIND,false,false,swain-visionary-ven.avif
+Temporal Breach,VEN,1,SPELL,MIND,false,false,temporal-breach-ven.avif
+Decree of Insight,VEN,2,SPELL,MIND,false,false,decree-of-insight-ven.avif
+Mel - Newly Awakened,VEN,1,UNIT,MIND,false,false,mel-newly-awakened-ven.avif
+Rampage,VEN,1,SPELL,BODY,false,false,rampage-ven.avif
+Guttural Roar,VEN,4,SPELL,BODY,false,false,guttural-roar-ven.avif
+Onslaught,VEN,2,SPELL,BODY,false,false,onslaught-ven.avif
+Tools of Empire,VEN,3,GEAR,BODY,false,false,tools-of-empire-ven.avif
+Jagged Cutlass,VEN,3,GEAR,BODY,false,false,jagged-cutlass-ven.avif
+Platewyrm Egg,VEN,4,UNIT,BODY,false,false,platewyrm-egg-ven.avif
+Noxian Demolitionist,VEN,2,UNIT,BODY,false,false,noxian-demolitionist-ven.avif
+Brutal Hunter,VEN,3,UNIT,BODY,false,false,brutal-hunter-ven.avif
+Dame the Despoiler,VEN,2,UNIT,BODY,false,false,dame-the-despoiler-ven.avif
+Baccai Witherclaw,VEN,1,UNIT,BODY,false,false,baccai-witherclaw-ven.avif
+Fretful Feline,VEN,4,UNIT,BODY,false,false,fretful-feline-ven.avif
+Profiteer,VEN,1,UNIT,BODY,false,false,profiteer-ven.avif
+Legion Marauder,VEN,4,UNIT,BODY,false,false,legion-marauder-ven.avif
+Repair Specialist,VEN,2,UNIT,BODY,false,false,repair-specialist-ven.avif
+Body Rune,VEN,2,RUNE,BODY,false,false,body-rune-ven.avif
+Tools of Empire (Foil),VEN,1,GEAR,BODY,false,false,tools-of-empire-ven.avif
+Brutal Hunter (Foil),VEN,1,UNIT,BODY,false,false,brutal-hunter-ven.avif
+Jagged Cutlass (Foil),VEN,1,GEAR,BODY,false,false,jagged-cutlass-ven.avif
+Renekton - Brute,VEN,1,UNIT,BODY,false,false,renekton-brute-ven.avif
+Gangplank - Naval,VEN,1,UNIT,BODY,false,false,gangplank-naval-ven.avif
+Jayce - Hammer in Hand,VEN,2,UNIT,BODY,false,false,jayce-hammer-in-hand-ven.avif
+Ambessa - The Wolf,VEN,1,UNIT,BODY,false,false,ambessa-the-wolf-ven.avif
+Wind Claw,VEN,1,SPELL,BODY,false,false,wind-claw-ven.avif
+Onslaught (Foil),VEN,1,SPELL,BODY,false,false,onslaught-ven.avif
+Decree of Strength,VEN,1,SPELL,BODY,false,false,decree-of-strength-ven.avif
+Twilight Reveler,VEN,1,UNIT,FURY,false,false,twilight-reveler-ven.avif
+Wind and Ghosts,VEN,1,SPELL,CHAOS,false,false,wind-and-ghosts-ven.avif
+Up from the Deep,VEN,3,SPELL,CHAOS,false,false,up-from-the-deep-ven.avif
+Twilight Step,VEN,2,SPELL,CHAOS,false,false,twilight-step-ven.avif
+Shadows of the Past,VEN,1,SPELL,CHAOS,false,false,shadows-of-the-past-ven.avif
+Shadow Order Disciple,VEN,4,UNIT,CHAOS,false,false,shadow-order-disciple-ven.avif
+Shadowblade Lurker,VEN,4,UNIT,CHAOS,false,false,shadowblade-lurker-ven.avif
+Mask Mother,VEN,2,UNIT,CHAOS,false,false,mask-mother-ven.avif
+Stargazer,VEN,4,UNIT,CHAOS,false,false,stargazer-ven.avif
+Ravenbloom Prefect,VEN,2,UNIT,CHAOS,false,false,ravenbloom-prefect-ven.avif
+Kinkou Lifeblade,VEN,4,UNIT,CHAOS,false,false,kinkou-lifeblade-ven.avif
+Tail-Cloaked Matriarch,VEN,2,UNIT,CHAOS,false,false,tail-cloaked-matriarch-ven.avif
+Tornado Warrior,VEN,3,UNIT,CHAOS,false,false,tornado-warrior-ven.avif
+Gust Monk,VEN,2,UNIT,CHAOS,false,false,gust-monk-ven.avif
+Spiderling,VEN,4,UNIT,CHAOS,false,false,spiderling-ven.avif
+Chaos Rune,VEN,2,RUNE,CHAOS,false,false,chaos-rune-ven.avif
+Illaoi - Prophet of the Great Kraken,VEN,2,UNIT,CHAOS,false,false,illaoi-prophet-of-the-great-kraken-ven.avif
+Tail-Cloaked Matriarch (Foil),VEN,1,UNIT,CHAOS,false,false,tail-cloaked-matriarch-ven.avif
+Tornado Warrior (Foil),VEN,1,UNIT,CHAOS,false,false,tornado-warrior-ven.avif
+Minah Swiftfoot,VEN,2,UNIT,CHAOS,false,false,minah-swiftfoot-ven.avif
+Ocean Drake,VEN,1,UNIT,CHAOS,false,false,ocean-drake-ven.avif
+Decree of Discord,VEN,1,SPELL,CHAOS,false,false,decree-of-discord-ven.avif
+Dragon Form,VEN,4,SPELL,ORDER,false,false,dragon-form-ven.avif
+Ki Barrier,VEN,2,SPELL,ORDER,false,false,ki-barrier-ven.avif
+Hungry Wolf,VEN,2,UNIT,ORDER,false,false,hungry-wolf-ven.avif
+Sacred Protector,VEN,1,UNIT,ORDER,false,false,sacred-protector-ven.avif
+Horns of the Dragon,VEN,4,UNIT,ORDER,false,false,horns-of-the-dragon-ven.avif
+Disciple of Shen,VEN,4,UNIT,ORDER,false,false,disciple-of-shen-ven.avif
+Noxian Emissary,VEN,2,UNIT,ORDER,false,false,noxian-emissary-ven.avif
+Soulspinner,VEN,4,UNIT,ORDER,false,false,soulspinner-ven.avif
+Escaped Grayback,VEN,1,UNIT,ORDER,false,false,escaped-grayback-ven.avif
+Solari Sunhawk,VEN,3,UNIT,ORDER,false,false,solari-sunhawk-ven.avif
+Keeper of Law,VEN,4,UNIT,ORDER,false,false,keeper-of-law-ven.avif
+"Masa, Crashing Thunder",VEN,2,UNIT,ORDER,false,false,masa-crashing-thunder-ven.avif
+Reluctant Leader,VEN,3,UNIT,ORDER,false,false,reluctant-leader-ven.avif
+Lacerate,VEN,2,SPELL,ORDER,false,false,lacerate-ven.avif
+Order Rune,VEN,2,RUNE,ORDER,false,false,order-rune-ven.avif
+Glowstone,VEN,1,GEAR,ORDER,false,false,glowstone-ven.avif
+Keeper of Law (Foil),VEN,1,UNIT,ORDER,false,false,keeper-of-law-ven.avif
+Aurok General,VEN,1,UNIT,ORDER,false,false,aurok-general-ven.avif
+Disciple of Shen (Foil),VEN,1,UNIT,ORDER,false,false,disciple-of-shen-ven.avif
+Fallen Feline,VEN,1,UNIT,ORDER,false,false,fallen-feline-ven.avif
+Kennen - Keeper of Balance,VEN,1,UNIT,ORDER,false,false,kennen-keeper-of-balance-ven.avif
+Kayle - Justified,VEN,1,UNIT,ORDER,false,false,kayle-justified-ven.avif
+Shen - Leader of the Kinkou Order,VEN,1,UNIT,ORDER,false,false,shen-leader-of-the-kinkou-order-ven.avif
+Dragon Form (Foil),VEN,1,SPELL,ORDER,false,false,dragon-form-ven.avif
+Ki Barrier (Foil),VEN,1,SPELL,ORDER,false,false,ki-barrier-ven.avif
+Decree of Unity,VEN,1,SPELL,ORDER,false,false,decree-of-unity-ven.avif
+Kinkou Temple (Foil),VEN,1,BATTLEFIELD,NONE,false,false,kinkou-temple-ven.avif
+Kinkou Temple,VEN,2,BATTLEFIELD,NONE,false,false,kinkou-temple-ven.avif
+Dragon Roost,VEN,1,BATTLEFIELD,NONE,false,false,dragon-roost-ven.avif
+Risen Altar,VEN,1,BATTLEFIELD,NONE,false,false,risen-altar-ven.avif
+Piltovan Forge,VEN,1,BATTLEFIELD,NONE,false,false,piltovan-forge-ven.avif
+Mystic Vortex,VEN,2,BATTLEFIELD,NONE,false,false,mystic-vortex-ven.avif
+Sandswept Tomb,VEN,2,BATTLEFIELD,NONE,false,false,sandswept-tomb-ven.avif
+Protective Sands,VEN,1,BATTLEFIELD,NONE,false,false,protective-sands-ven.avif
+Shadow Temple,VEN,2,BATTLEFIELD,NONE,false,false,shadow-temple-ven.avif
+"Heisho, Shell of the World",VEN,1,BATTLEFIELD,NONE,false,false,heisho-shell-of-the-world-ven.avif
+Threshold of the Gray,VEN,2,BATTLEFIELD,NONE,false,false,threshold-of-the-gray-ven.avif
+Recruit,VEN,3,TOKEN,NONE,false,false,recruit-ven.avif
+Shadow Clone,VEN,3,TOKEN,NONE,false,false,shadow-clone-ven.avif
+Gold,VEN,4,TOKEN,NONE,false,false,gold-ven.avif
